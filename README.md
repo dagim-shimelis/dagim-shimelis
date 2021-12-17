@@ -16,11 +16,20 @@
 - ⚡ Fun fact **92 per cent of the world's currency is digital**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  
-  
+<p align="left">
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="30" height="30"
+viewBox="0 0 30 30"
+style=" fill:#000000;"> <path d="M9,25H4V10h5V25z M6.501,8C5.118,8,4,6.879,4,5.499S5.12,3,6.501,3C7.879,3,9,4.121,9,5.499C9,6.879,7.879,8,6.501,8z M27,25h-4.807v-7.3c0-1.741-0.033-3.98-2.499-3.98c-2.503,0-2.888,1.896-2.888,3.854V25H12V9.989h4.614v2.051h0.065 c0.642-1.18,2.211-2.424,4.551-2.424c4.87,0,5.77,3.109,5.77,7.151C27,16.767,27,25,27,25z"></path></svg>
+
 <a href="https://t.me/dagim_shimelis" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/50/107ba9/sent.png" alt="dagim-shimelis" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/dagim-shimelis" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/107ba9/linkedin-2--v1.png" alt="dagim-shimelis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dagim-shimelis" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="30" height="30"
+viewBox="0 0 30 30"
+style=" fill:#017ba9;"> <path d="M9,25H4V10h5V25z M6.501,8C5.118,8,4,6.879,4,5.499S5.12,3,6.501,3C7.879,3,9,4.121,9,5.499C9,6.879,7.879,8,6.501,8z M27,25h-4.807v-7.3c0-1.741-0.033-3.98-2.499-3.98c-2.503,0-2.888,1.896-2.888,3.854V25H12V9.989h4.614v2.051h0.065 c0.642-1.18,2.211-2.424,4.551-2.424c4.87,0,5.77,3.109,5.77,7.151C27,16.767,27,25,27,25z"></path></svg></a>
 <a href="https://instagram.com/dagim_shimelis" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/50/107ba9/instagram-new.png" alt="dagim_shimelis" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
