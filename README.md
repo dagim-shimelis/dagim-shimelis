@@ -1,10 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Dagi</h1>
 <h3 align="center">A Curious Full-stack developer who loves learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagim-shimelis&label=Profile%20views&color=017ba9&style=plastic" alt="dagim-shimelis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagim-shimelis" alt="dagim-shimelis" /></a> </p>
-
 - 🔭 I’m currently working on **Zena platform - an app that brings you the latest news from all over the world with just one click**
 
 - 🌱 I’m currently learning **API development**
@@ -20,9 +16,11 @@
 - ⚡ Fun fact **92 per cent of the world's currency is digital**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dagim-shimelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagim-shimelis" height="30" width="40" /></a>
-<a href="https://instagram.com/dagim_shimelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dagim_shimelis" height="30" width="40" /></a>
+<p align="left">  
+  
+<a href="https://t.me/dagim_shimelis" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/50/107ba9/sent.png" alt="dagim-shimelis" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/dagim-shimelis" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/107ba9/linkedin-2--v1.png" alt="dagim-shimelis" height="30" width="40" /></a>
+<a href="https://instagram.com/dagim_shimelis" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/50/107ba9/instagram-new.png" alt="dagim_shimelis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
