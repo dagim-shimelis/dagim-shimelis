@@ -70,7 +70,7 @@
 <!-- language stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagim-shimelis&show_icons=true&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en&layout=compact" alt="dagim-shimelis" /></p>
 
-<br></br>
+<div><div>
 
 <!-- profile stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagim-shimelis&show_icons=true&theme=dark&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en" alt="dagim-shimelis" /></p>
