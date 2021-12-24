@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Dagi</h1>
 <h3 align="center">A Curious Full-stack developer who loves learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagim-shimelis&label=Profile%20views&color=017ba9&style=plastic" alt="dagim-shimelis" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagim-shimelis&label=Profile%20views&color=017ba9&style=plastic" alt="dagim-shimelis" /> </p> -->
 
 - 🔭 I’m currently working on **Zena platform - an app that brings you the latest news from all over the world with just one click**
 
