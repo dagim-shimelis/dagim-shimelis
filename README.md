@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Dagi</h1>
-<h3 align="center">A Curious Full-stack developer who loves learning new things.</h3>
+<h3 align="center">A Curious Full-stack web developer who loves learning new things.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagim-shimelis&label=Profile%20views&color=017ba9&style=plastic" alt="dagim-shimelis" /> </p> -->
 
-- 🔭 I’m currently working on **Zena platform - an app that brings you the latest news from all over the world with just one click**
+- 🔭 I’m currently working at **Minab It Solutions**
 
 - 🌱 I’m currently learning **API development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dagimshimelis1992@gmail.com**
 
-- ⚡ Fun fact **92 per cent of the world's currency is digital**
+- ⚡ Fun fact **92 percent of the world's currency is digital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,11 +66,14 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
+<!-- WakaTime Stats -->
+<h3 align="left">WakaTime Yearly Statistics:</h3>
+ <p><img align="left" src="https://wakatime.com/share/@dagim_shimelis/fea47abc-7a64-4549-a73b-206aab92fe0c.svg" alt="dagim-shimelis" /></p> 
 <!-- stats -->
 <!-- language stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagim-shimelis&show_icons=true&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en&layout=compact" alt="dagim-shimelis" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagim-shimelis&show_icons=true&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en&layout=compact" alt="dagim-shimelis" /></p> -->
 
 <div><div>
 
 <!-- profile stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagim-shimelis&show_icons=true&theme=dark&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en" alt="dagim-shimelis" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagim-shimelis&show_icons=true&theme=dark&title_color=017ba9&text_color=e6e6e6&bg_color=151515&locale=en" alt="dagim-shimelis" /></p> -->
