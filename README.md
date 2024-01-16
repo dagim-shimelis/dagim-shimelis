@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **expanding my design patterns knowledge**
 
-- 💬 Ask me about **Java, JavaScript, Vue**
+- 💬 Ask me about **JavaScript, Vue, Nuxt**
 
 - 📫 How to reach me **dagimshimelis1992@gmail.com**
 
