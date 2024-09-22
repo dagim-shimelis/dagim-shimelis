@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dagimshimelis1992@gmail.com**
 
-- 🌐 Check out my personal portfolio <a href="dagim-shimelis.me" target="_blank">**dagim-shimelis.me**</a>
+- 🌐 Check out my personal portfolio <a href="https://dagim-shimelis.me/" target="_blank">**dagim-shimelis.me**</a>
 
 - ⚡ Fun fact **92 percent of the world's currency is digital**
 
