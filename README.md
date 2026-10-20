@@ -15,7 +15,9 @@ I build websites and digital products with care for how they look, work, and fee
 | Preview | Project |
 | :--- | :--- |
 | <a href="https://www.dwightprompt.com/"><img src="https://dagim.codes/images/projects/dwightprompt.png" width="240" alt="Dwight Prompt Assistant website and prompt editor preview"></a> | `01 / AI TOOLS`<br><br>[**Dwight Prompt Assistant ↗**](https://www.dwightprompt.com/)<br>Helps people write better prompts for AI. |
-| <a href="https://trigger-note.com/"><img src="https://dagim.codes/images/projects/trigger-note.png" width="240" alt="TriggerNote reminder appearing on a matching website"></a> | `02 / PRODUCTIVITY`<br><br>[**TriggerNote ↗**](https://trigger-note.com/)<br>Brings notes into view on matching websites. |
+| <a href="https://sheriff.dagim.codes/"><img src="https://dagim.codes/images/projects/sheriff.webp" width="240" alt="Sheriff developer tool website preview"></a> | `02 / DEVELOPER TOOLS`<br><br>[**Sheriff ↗**](https://sheriff.dagim.codes/)<br>Helps Claude Code and Codex find test gaps, write tests, and keep them up to date. |
+| <a href="https://trigger-note.com/"><img src="https://dagim.codes/images/projects/trigger-note.png" width="240" alt="TriggerNote reminder appearing on a matching website"></a> | `03 / PRODUCTIVITY`<br><br>[**TriggerNote ↗**](https://trigger-note.com/)<br>Brings notes into view on matching websites. |
+
 
 [More work & collaborations ↗](https://dagim.codes/projects/list)
 
