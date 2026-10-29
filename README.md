@@ -1,7 +1,3 @@
-[![Good design. Thoughtful code. — Dagim Shimelis, independent developer and designer. Orange ASCII artwork on a charcoal background.](https://dagim.codes/images/og-portfolio.png)](https://dagim.codes/)
-
-# Dagim Shimelis.
-
 `FRONTEND DEVELOPMENT / UI DESIGN / ADDIS ABABA, ET`
 
 I build websites and digital products with care for how they look, work, and feel.
