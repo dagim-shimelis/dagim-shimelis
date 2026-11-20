@@ -13,6 +13,7 @@ I build websites and digital products with care for how they look, work, and fee
 | <a href="https://www.dwightprompt.com/"><img src="https://dagim.codes/images/projects/dwightprompt.png" width="240" alt="Dwight Prompt Assistant website and prompt editor preview"></a> | `01 / AI TOOLS`<br><br>[**Dwight Prompt Assistant ↗**](https://www.dwightprompt.com/)<br>Helps people write better prompts for AI. |
 | <a href="https://sheriff.dagim.codes/"><img src="https://dagim.codes/images/projects/sheriff.webp" width="240" alt="Sheriff developer tool website preview"></a> | `02 / DEVELOPER TOOLS`<br><br>[**Sheriff ↗**](https://sheriff.dagim.codes/)<br>Helps Claude Code and Codex find test gaps, write tests, and keep them up to date. |
 | <a href="https://trigger-note.com/"><img src="https://dagim.codes/images/projects/trigger-note.png" width="240" alt="TriggerNote reminder appearing on a matching website"></a> | `03 / PRODUCTIVITY`<br><br>[**TriggerNote ↗**](https://trigger-note.com/)<br>Brings notes into view on matching websites. |
+| <a href="https://lofimusic.dagim.codes/"><img src="https://dagim.codes/images/projects/lofi-music-1080.webp" width="240" alt="Lofi Music player with a retro television over a meadow landscape"></a> | `04 / MUSIC PLAYER`<br><br>[**Lofi Music ↗**](https://lofimusic.dagim.codes/)<br>An open-source, keyboard-first SoundCloud lofi player built for focused coding sessions. |
 
 
 [More work & collaborations ↗](https://dagim.codes/projects/list)
