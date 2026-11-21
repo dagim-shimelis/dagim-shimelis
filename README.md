@@ -1,4 +1,4 @@
-`FRONTEND DEVELOPMENT / UI DESIGN / ADDIS ABABA, ET`
+`FULL-STACK PRODUCT ENGINEER & DESIGNER / ADDIS ABABA, ET`
 
 I build websites and digital products with care for how they look, work, and feel.
 
